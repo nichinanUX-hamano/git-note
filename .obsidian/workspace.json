@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44106aeb10371905",
+  "active": "6859c9be8fde5870",
   "lastOpenFiles": [
     "README.md",
     "無題のファイル.md"
