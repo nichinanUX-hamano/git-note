@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "備品管理アプリ.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "備品管理アプリ"
+              "title": "README"
+            }
+          },
+          {
+            "id": "8e88b8e8df984c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF -> Markdown手順.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PDF -> Markdown手順"
+            }
+          },
+          {
+            "id": "8c93e127636d0264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chat-bot-dev/チャットボット開発プロセス - 06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "チャットボット開発プロセス - 06"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,11 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "942c70903bf4b9a5",
+  "active": "8c93e127636d0264",
   "lastOpenFiles": [
+    "chat-bot-dev/チャットボット開発プロセス - 01.md",
+    "chat-bot-dev/チャットボット開発プロセス - 06.md",
+    "chat-bot-dev",
+    "chat-bot-dev/チャットボット開発プロセス - 05.md",
+    "chat-bot-dev/チャットボット開発プロセス - 04.md",
+    "chat-bot-dev/チャットボット開発プロセス - 03.md",
+    "chat-bot-dev/チャットボット開発プロセス - 02.md",
+    "PDF -> Markdown手順.md",
+    "web-site/備品管理アプリ.md",
+    "web-site/営業サイト/サイトフロー.md",
     "README.md",
-    "備品管理アプリ.md",
-    "無題のファイル 1.md",
-    "無題のファイル.md"
+    "web-site/営業サイト/営業資料.md",
+    "web-site/営業サイト",
+    "web-site",
+    "無題のファイル 1.md"
   ]
 }
