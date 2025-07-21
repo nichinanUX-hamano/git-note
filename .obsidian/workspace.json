@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chat-bot-dev/チャットボット開発プロセス - 06.md",
+                "file": "chat-bot-dev/チャットボット開発プロセス - 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "チャットボット開発プロセス - 06"
+              "title": "チャットボット開発プロセス - 01"
             }
           }
         ],
@@ -211,13 +211,13 @@
   },
   "active": "8c93e127636d0264",
   "lastOpenFiles": [
-    "chat-bot-dev/チャットボット開発プロセス - 01.md",
     "chat-bot-dev/チャットボット開発プロセス - 06.md",
-    "chat-bot-dev",
     "chat-bot-dev/チャットボット開発プロセス - 05.md",
     "chat-bot-dev/チャットボット開発プロセス - 04.md",
     "chat-bot-dev/チャットボット開発プロセス - 03.md",
     "chat-bot-dev/チャットボット開発プロセス - 02.md",
+    "chat-bot-dev/チャットボット開発プロセス - 01.md",
+    "chat-bot-dev",
     "PDF -> Markdown手順.md",
     "web-site/備品管理アプリ.md",
     "web-site/営業サイト/サイトフロー.md",
