@@ -55,7 +55,8 @@ tags:
 ## Local｜Desk Top, Lap Top
 #### コンテンツ
 -　Mouse Control
--　Manager Tool  https://nichinan-design.com/Equipment/
+-　Manager Tool
+	備品管理　(https://nichinan-design.com/Equipment/)
 #### ツール
 - **3Dモデル**
 	- unity
