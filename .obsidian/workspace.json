@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "Creation"
             }
-          },
-          {
-            "id": "e6362ce2baef80f7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "c00b6f19d05b1911",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "05167924b5fcfd65",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05167924b5fcfd65",
+  "active": "8c5639cd36f783bc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "UX DX/Creation.md",
