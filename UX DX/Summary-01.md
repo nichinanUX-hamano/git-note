@@ -4,6 +4,7 @@ tags:
   - DX
   - study
 営業ツール: https://cooperative-harpymimus-673.notion.site/05ae9bc66e2b42649532b57c656fdd9c
+date: 2025-09-19
 ---
 ## HMD
 #### コンテンツ
