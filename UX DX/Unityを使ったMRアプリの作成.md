@@ -31,8 +31,8 @@ date: 2025-10-10
 - Unityセットアップ
 - 必要プラグイン
 	- Meta XR Core SDK必須
- 	- Meta MR Utility Kit
-  	- Meta XR Interaction SDK	  
+	- Meta MR Utility Kit
+	- Meta XR Interaction SDK	  
 - 確認方法
 	- Quest Linkを使ったパススルーでの確認
 
