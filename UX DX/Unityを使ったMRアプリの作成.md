@@ -53,14 +53,14 @@ date: 2025-10-10
 
 ## 前準備
 共用ラップトップへのインストール
-- [ ] Unity
-- [ ] Pixyz
-- [ ] Blender
-- [ ] Meta Quest Link
-- [ ] Meta Quest Developer Hub
+- [x] Unity
+- [x] Pixyz
+- [x] Blender
+- [x] Meta Quest Link
+- [x] Meta Quest Developer Hub
 
 Quest3
-- [ ] 開発モード化
+- [x] 開発モード化
 
 ---
 
