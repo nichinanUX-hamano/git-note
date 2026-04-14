@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookMark｜DB.md",
+                "file": "X/世界のマーケターがClaude Codeで何をやってるか、全部まとめてみた.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BookMark｜DB"
+              "title": "世界のマーケターがClaude Codeで何をやってるか、全部まとめてみた"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "8c5639cd36f783bc",
   "lastOpenFiles": [
-    "README.md",
     "BookMark｜DB.md",
+    "X/世界のマーケターがClaude Codeで何をやってるか、全部まとめてみた.md",
+    "README.md",
     "_Tips/PDF to Markdown手順.md",
     "UX DX/Summary-01.md",
     "UX DX/Unityを使ったMRアプリの作成.md",
@@ -208,7 +209,6 @@
     "AI/Gemini CLI  オープンソース AI エージェント  Google Cloud 公式ブログ.md",
     "用語/PoC.md",
     "Spatial/PortalCam XGRIDS ｜  軽量小型な高性能ハンディ3Dスキャナー.md",
-    "Spatial/Capture Images for Gaussian Splatting.md",
     "行動科学",
     "_Tips",
     "conflict-files-obsidian-git.md.sb-e7344f01-lnoaKq",
