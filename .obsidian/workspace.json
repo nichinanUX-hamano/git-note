@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips/最新動画生成AI プロンプト作成 Tips.md",
+                "file": "行動科学/セロトニントランスポーターと日本人のリスク回避.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最新動画生成AI プロンプト作成 Tips"
+              "title": "セロトニントランスポーターと日本人のリスク回避"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips/最新動画生成AI プロンプト作成 Tips.md",
+                "file": "web-site/備品管理アプリ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "最新動画生成AI プロンプト作成 Tipsからのアウトゴーイングリンク"
+              "title": "備品管理アプリからのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/最新動画生成AI プロンプト作成 Tips.md",
+                "file": "web-site/備品管理アプリ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "最新動画生成AI プロンプト作成 Tipsのアウトライン"
+              "title": "備品管理アプリのアウトライン"
             }
           },
           {
@@ -181,17 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "618b796c967c2d08",
+  "active": "8c5639cd36f783bc",
   "lastOpenFiles": [
+    "web-site/備品管理アプリ.md",
+    "行動科学/セロトニントランスポーターと日本人のリスク回避.md",
+    "行動科学",
+    "web-site/営業サイト/サイトフロー.md",
+    "Tips/最新動画生成AI プロンプト作成 Tips.md",
     "Tips/Obsidian Git 操作・設定ガイド.md",
     "Tips/画像生成プロンプト完全ガイド.md",
     "Nichinan Data Base/日南- 03.md",
-    "Tips/最新動画生成AI プロンプト作成 Tips.md",
     "Tips",
     "Nichinan Data Base/日南- 02.md",
     "Nichinan Data Base/日南- 01.md",
-    "web-site/備品管理アプリ.md",
-    "web-site/営業サイト/サイトフロー.md",
     "chat-bot-dev/チャットボット開発プロセス - 01.md",
     "README.md",
     "無題のファイル.md",
@@ -214,7 +216,6 @@
     "Nichinan Data Base/日南- 14.md",
     "Nichinan Data Base/日南- 13.md",
     "Nichinan Data Base/日南- 12.md",
-    "Nichinan Data Base/日南- 11.md",
     "Nichinan Data Base"
   ]
 }
