@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X/世界のマーケターがClaude Codeで何をやってるか、全部まとめてみた.md",
+                "file": "行動科学/写真構図12選.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "世界のマーケターがClaude Codeで何をやってるか、全部まとめてみた"
+              "title": "写真構図12選"
             }
           }
         ]
@@ -183,10 +183,18 @@
   },
   "active": "8c5639cd36f783bc",
   "lastOpenFiles": [
-    "BookMark｜DB.md",
+    "行動科学/デザインに使える心理学.md",
+    "行動科学/デザインに効く心理学法則と実践ロジック.md",
+    "行動科学/写真構図12選.md",
     "X/世界のマーケターがClaude Codeで何をやってるか、全部まとめてみた.md",
-    "README.md",
+    "_Tips/最新動画生成AI プロンプト作成 Tips.md",
     "_Tips/PDF to Markdown手順.md",
+    "_Tips/【無料テンプレ付】パワポの強調は「赤色NG」？ 劇的洗練させる「テクニック10選」.md",
+    "_Tips/画像生成プロンプト完全ガイド.md",
+    "用語/As-Is _ To-Be分析.md",
+    "用語/PoC.md",
+    "BookMark｜DB.md",
+    "README.md",
     "UX DX/Summary-01.md",
     "UX DX/Unityを使ったMRアプリの作成.md",
     "Spatial/360度の動画や画像データから3D Gaussian Splatsデータを構築する為の補助ツールセット！.md",
@@ -201,14 +209,6 @@
     "Movie/はじめよう！踏み出そう！VFX！ 第2回：DaVinci Resolve Fusionで踏み込むコンポジット！【ステイホームVFX連動企画】.md",
     "Movie/カラーグレーディングで映像を印象的に仕上げる DaVinci Resolve中級編.md",
     "Movie/midunoが考えるオススメのフィールド・レコーディング用機材（2021年10月／更新：2025年5月）｜Nature Sound Effect  miduno.md",
-    "Movie/【DaVinci Resolve】カラー調整時のスコープの見方｜Tatsu Movie.md",
-    "Movie/【Davinci Resolve】カラーコレクション・カラーグレーディングの基本を解説.md",
-    "AI/【徹底解説】MCPとAPIの違いとは？初心者にもわかるように具体例つきで解説.md",
-    "_Tips/【無料テンプレ付】パワポの強調は「赤色NG」？ 劇的洗練させる「テクニック10選」.md",
-    "用語/As-Is _ To-Be分析.md",
-    "AI/Gemini CLI  オープンソース AI エージェント  Google Cloud 公式ブログ.md",
-    "用語/PoC.md",
-    "Spatial/PortalCam XGRIDS ｜  軽量小型な高性能ハンディ3Dスキャナー.md",
     "行動科学",
     "_Tips",
     "conflict-files-obsidian-git.md.sb-e7344f01-lnoaKq",
