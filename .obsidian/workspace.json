@@ -35,7 +35,8 @@
               "title": "360° Gaussian + LichtFeld Studio + SuperSplat Editor ｜基本"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c5639cd36f783bc",
+  "active": "e8b504183573c83c",
   "lastOpenFiles": [
-    "Spatial/360° Gaussian + LichtFeld Studio + SuperSplat Editor ｜基本.md",
     "Spatial/360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上.md",
+    "Spatial/360° Gaussian + LichtFeld Studio + SuperSplat Editor ｜基本.md",
     "Spatial/Capture Images for Gaussian Splatting.md",
     "Spatial/EDGS.md",
     "X/From Hierarchy to Intelligence.md",
