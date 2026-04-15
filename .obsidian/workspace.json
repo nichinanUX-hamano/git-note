@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X/From Hierarchy to Intelligence.md",
+                "file": "Spatial/360° Gaussian + LichtFeld Studio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "From Hierarchy to Intelligence"
+              "title": "360° Gaussian + LichtFeld Studio"
             }
           }
         ]
@@ -183,6 +183,10 @@
   },
   "active": "8c5639cd36f783bc",
   "lastOpenFiles": [
+    "Spatial/Capture Images for Gaussian Splatting.md",
+    "Spatial/360° Gaussian + LichtFeld Studio.md",
+    "Spatial/EDGS.md",
+    "X/From Hierarchy to Intelligence.md",
     "X/2026年、もはや Claude Code はエンジニア以外も全員が使うべきツールになった.md",
     "X/50 design prompts from ex-Warner designer (Nano Banana Pro).md",
     "用語/ナレッジグラフ（Knowledge Graph）の解説.md",
@@ -208,10 +212,6 @@
     "UX DX/Summary-01.md",
     "UX DX/Unityを使ったMRアプリの作成.md",
     "Spatial/360度の動画や画像データから3D Gaussian Splatsデータを構築する為の補助ツールセット！.md",
-    "Spatial/東京都デジタルツイン実現プロジェクト　区部点群データ - G空間情報センター.md",
-    "Spatial/PlayCanvas Adopts SOGS for 20x 3DGS Compression  PlayCanvas Blog.md",
-    "Spatial/NVIDIA が世界の大きなデジタルモデルを構築する fVDB を発表.md",
-    "Spatial/EDGS.md",
     "行動科学",
     "_Tips",
     "conflict-files-obsidian-git.md.sb-e7344f01-lnoaKq",
