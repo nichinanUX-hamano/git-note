@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spatial/360° Gaussian + LichtFeld Studio.md",
+                "file": "Spatial/360° Gaussian + LichtFeld Studio ｜入門.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "360° Gaussian + LichtFeld Studio"
+              "title": "360° Gaussian + LichtFeld Studio ｜入門"
             }
           }
         ]
@@ -184,7 +184,7 @@
   "active": "8c5639cd36f783bc",
   "lastOpenFiles": [
     "Spatial/Capture Images for Gaussian Splatting.md",
-    "Spatial/360° Gaussian + LichtFeld Studio.md",
+    "Spatial/360° Gaussian + LichtFeld Studio ｜入門.md",
     "Spatial/EDGS.md",
     "X/From Hierarchy to Intelligence.md",
     "X/2026年、もはや Claude Code はエンジニア以外も全員が使うべきツールになった.md",
