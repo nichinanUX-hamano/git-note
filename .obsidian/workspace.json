@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用語/ナレッジグラフ（Knowledge Graph）の解説.md",
+                "file": "X/From Hierarchy to Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ナレッジグラフ（Knowledge Graph）の解説"
+              "title": "From Hierarchy to Intelligence"
             }
           }
         ]
@@ -183,9 +183,11 @@
   },
   "active": "8c5639cd36f783bc",
   "lastOpenFiles": [
+    "X/2026年、もはや Claude Code はエンジニア以外も全員が使うべきツールになった.md",
+    "X/50 design prompts from ex-Warner designer (Nano Banana Pro).md",
+    "用語/ナレッジグラフ（Knowledge Graph）の解説.md",
     "test.md",
     "test2.md",
-    "用語/ナレッジグラフ（Knowledge Graph）の解説.md",
     "用語/PoC.md",
     "_Tips/画像生成プロンプト完全ガイド.md",
     "_Tips/最新動画生成AI プロンプト作成 Tips.md",
@@ -210,8 +212,6 @@
     "Spatial/PlayCanvas Adopts SOGS for 20x 3DGS Compression  PlayCanvas Blog.md",
     "Spatial/NVIDIA が世界の大きなデジタルモデルを構築する fVDB を発表.md",
     "Spatial/EDGS.md",
-    "Spatial/3D Gaussian Splatting Converter の使い方｜npaka.md",
-    "Spatial/【VisionOS】Immersive Space Progressive の作成方法について｜アップフロンティア株式会社.md",
     "行動科学",
     "_Tips",
     "conflict-files-obsidian-git.md.sb-e7344f01-lnoaKq",
