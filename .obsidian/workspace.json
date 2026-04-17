@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spatial/360° Gaussian + LichtFeld Studio + SuperSplat Editor ｜基本.md",
+                "file": "Spatial/360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "360° Gaussian + LichtFeld Studio + SuperSplat Editor ｜基本"
+              "title": "360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "e8b504183573c83c",
   "lastOpenFiles": [
-    "Spatial/360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上.md",
     "Spatial/360° Gaussian + LichtFeld Studio + SuperSplat Editor ｜基本.md",
+    "Spatial/360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上.md",
     "Spatial/Capture Images for Gaussian Splatting.md",
     "Spatial/EDGS.md",
     "X/From Hierarchy to Intelligence.md",
