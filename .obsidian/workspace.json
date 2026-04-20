@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2bda3a69beb33cd9",
+        "id": "640658f7ee3887c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f8d781ddb5e1d1de",
+            "id": "8c5639cd36f783bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Figma Weave 商用利用の注意点.md",
+                "file": "Spatial/360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Figma Weave 商用利用の注意点"
+              "title": "360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上"
+            }
+          },
+          {
+            "id": "e8b504183573c83c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,49 +196,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "618b796c967c2d08",
+  "active": "e8b504183573c83c",
   "lastOpenFiles": [
-    "_Tips/img/CC-26417-5.webp",
-    "_Tips/img/CC-26417-4.webp",
-    "_Tips/img/CC-26417-3.webp",
-    "_Tips/img/CC-26417-2.webp",
-    "_Tips/img/CC-26417-1.webp",
-    "_Tips/img",
-    "Web/「shadcnui」って何が凄いの？実装知らないWebデザイナーが調べてみた｜akane.md",
-    "_Tips/最新動画生成AI プロンプト作成 Tips.md",
-    "AI/Figma Weave 商用利用の注意点.md",
-    "AI/【徹底解説】MCPとAPIの違いとは？初心者にもわかるように具体例つきで解説.md",
-    "AI/進化した Google の Stitch でデザイン生成から MCP・Skills 連携まで試してみた 1.md",
-    "AI/国土交通省提供の『地理空間MCP Server』を使ってお手軽にClaudeからの地理空間情報連携を試してみた.md",
-    "AI/Gemini CLI  オープンソース AI エージェント  Google Cloud 公式ブログ.md",
-    "_Tips/【なぜダサくなる？】Claude CodeでWebサイトやアプリを開発する時の８つのポイントを徹底解説！【POSTS代表 梶谷健人】.md",
-    "Movie/なぜ企業YouTubeは全然伸びない？真面目な会社ほど広告費を「ドブに捨ててる」3つのNG.md",
-    "Clippings",
-    "Spatial/VPCと周辺技術の活用まとめ.md",
-    "_Tips/画像生成プロンプト完全ガイド.md",
-    "_Tips/ナレッジグラフとは何か：知識をつながりで表現する｜LLMをもっと賢くする：ナレッジグラフ実践入門.md",
-    "Spatial/360° Gaussian + LichtFeld Studio + SuperSplat Editor ｜基本.md",
-    "Spatial/360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上.md",
-    "用語/ナレッジグラフ（Knowledge Graph）の解説.md",
-    "test2.md",
-    "test.md",
-    "用語/PoC.md",
+    "BookMark｜DB.md",
     "用語/As-Is _ To-Be分析.md",
-    "行動科学/写真構図12選.md",
-    "行動科学/デザインに使える心理学.md",
-    "行動科学/デザインに効く心理学法則と実践ロジック.md",
-    "行動科学/セロトニントランスポーターと日本人のリスク回避.md",
+    "行動科学/g-写真構図12選.md",
+    "行動科学/g-デザインに使える心理学.md",
+    "行動科学/g-デザインに効く心理学法則と実践ロジック.md",
+    "行動科学/g-セロトニントランスポーターと日本人のリスク回避.md",
+    "X/50 design prompts from ex-Warner designer (Nano Banana Pro).md",
+    "Web/b-これが実装されたらWebARがアツい！2025年絶対来てほしいSafari Feature Flags！ - WebAR Lab - WebARの最新情報がわかるメディア.md",
+    "Web/b-オープンソースのThree.js向け3DGSレンダラ「Spark 2.0」Developer Previewリリース！ LoDレンダリング、巨大な3DGSシーンの効率的なストリーミングに対応.md",
+    "Web/b-あなたの3Dシーンが歩ける世界になる。.md",
+    "Web/b-Webデザインのモーション集サイトを作りました.md",
+    "Web/b-1枚絵に描かれた世界、速攻で3Dオープンワールドに変換。またスゴいAIが出てきた.md",
+    "Web/b-「shadcnui」って何が凄いの？実装知らないWebデザイナーが調べてみた｜akane.md",
+    "Spatial/b-東京都デジタルツイン実現プロジェクト　区部点群データ - G空間情報センター.md",
+    "Spatial/b-パススルーカメラAPIでMRの新時代の扉を開く.md",
+    "Spatial/b-マルチプレイヤービルディングブロック設定ガイド.md",
+    "Spatial/g-VPCと周辺技術の活用まとめ.md",
+    "Spatial/b-イントロダクション｜フォトグラメトリ手順書 v2.md",
+    "Spatial/b-EDGS ｜Processe.md",
+    "Spatial/b-SVRaster｜Processe.md",
+    "Spatial/b-SuperSplat 3DGS Viewer is now Open Source  PlayCanvas Blog.md",
+    "Spatial/b-postshotの使い方.md",
+    "Spatial/b-PortalCam XGRIDS ｜  軽量小型な高性能ハンディ3Dスキャナー.md",
+    "Spatial/b-PlayCanvas Adopts SOGS for 20x 3DGS Compression  PlayCanvas Blog.md",
+    "Spatial/b-NVIDIA が世界の大きなデジタルモデルを構築する fVDB を発表.md",
+    "Spatial/b-Capture Images for Gaussian Splatting.md",
     "行動科学/img/Design Psychology.webp",
     "行動科学/img/Photographic Composition.webp",
     "行動科学/img",
-    "行動科学/無題のファイル.md",
-    "X/世界のマーケターがClaude Codeで何をやってるか、全部まとめてみた.md",
     "行動科学",
     "_Tips",
     "conflict-files-obsidian-git.md.sb-e7344f01-lnoaKq",
     "UX DX",
     "web-site/営業サイト",
     "web-site",
-    "chat-bot-dev"
+    "chat-bot-dev",
+    "Nichinan Data Base"
   ]
 }
