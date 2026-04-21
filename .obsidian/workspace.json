@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spatial/b-360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "b-360° Gaussian + LichtFeld Studio + Reality Scan + SuperSplat Editor ｜品質向上"
             }
           }
         ],
@@ -198,6 +198,8 @@
   },
   "active": "e8b504183573c83c",
   "lastOpenFiles": [
+    "AI/g-Figma Weave 商用利用の注意点.md",
+    "README.md",
     "BookMark｜DB.md",
     "用語/As-Is _ To-Be分析.md",
     "行動科学/g-写真構図12選.md",
@@ -222,8 +224,6 @@
     "Spatial/b-postshotの使い方.md",
     "Spatial/b-PortalCam XGRIDS ｜  軽量小型な高性能ハンディ3Dスキャナー.md",
     "Spatial/b-PlayCanvas Adopts SOGS for 20x 3DGS Compression  PlayCanvas Blog.md",
-    "Spatial/b-NVIDIA が世界の大きなデジタルモデルを構築する fVDB を発表.md",
-    "Spatial/b-Capture Images for Gaussian Splatting.md",
     "行動科学/img/Design Psychology.webp",
     "行動科学/img/Photographic Composition.webp",
     "行動科学/img",
